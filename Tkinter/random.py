@@ -6,11 +6,11 @@ window = Tk()
 def button_clicked():
     my_label.config(text = f"{input.get()}")
 
-window.title("Amongus")
+window.title("Title")
 window.minsize(width = 500, height = 300)
 window.config(padx = 100, pady = 200)
 
-my_label = Label(text = "Puie Monta")
+my_label = Label(text = "text")
 my_label.grid(column = 0, row = 0)
 my_label.config(padx = 50, pady = 50)
 
