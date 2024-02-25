@@ -1,4 +1,5 @@
-# PythonProjects
+# Python Projects
+  Here are some of the projects I've made using Python.
 
 ## Python Course Udemy
   A couple of small projects that I made while following the "100 Days of Python" course on Udemy
